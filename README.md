@@ -1,1 +1,1 @@
-Makinf resposnive website with HTML and CSS
+Making resposnive website with HTML and CSS
